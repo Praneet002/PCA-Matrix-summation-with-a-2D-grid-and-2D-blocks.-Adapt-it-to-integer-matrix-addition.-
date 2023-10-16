@@ -22,8 +22,8 @@ Finally Free device global memory,host memory and reset device.
 Save and Run the Program.
 ## Program: 
 ```
-Developed By : KATHIRVEL.A
-Register No : 212221230047
+Developed By : PRANEET.S
+Register No : 212221230078
 
 #include "common.h"
 #include <cuda_runtime.h>
